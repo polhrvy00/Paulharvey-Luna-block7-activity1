@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "PaulharveyLuna-Block7-Quiz"
 include ':app'
-include ':app'
